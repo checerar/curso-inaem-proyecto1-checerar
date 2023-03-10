@@ -1,6 +1,6 @@
 # curso-inaem-proyecto1
 
-Pig game by JUANDA
+Pig game by Ernesto Chechele
 
 Gana el jugador que primero llega a 100 puntos.
 Cada vez que lanzas el dado acumulas puntos en tu turno.
